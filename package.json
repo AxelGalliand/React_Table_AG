@@ -1,0 +1,19 @@
+{
+  "name": "react_table_ag",
+  "version": "1.0.0",
+  "description": "react table plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelGalliand/React_Table_AG.git"
+  },
+  "author": "GALLIAND Axel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelGalliand/React_Table_AG/issues"
+  },
+  "homepage": "https://github.com/AxelGalliand/React_Table_AG#readme"
+}
