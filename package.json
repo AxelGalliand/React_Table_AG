@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AxelGalliand/React_Table_AG/issues"
   },
-  "homepage": "https://github.com/AxelGalliand/React_Table_AG#readme"
+  "homepage": "https://github.com/AxelGalliand/React_Table_AG#readme",
+  "publishConfig": {
+    "AxelGalliand:registry": "https://npm.pkg.github.com"
+  }
 }
